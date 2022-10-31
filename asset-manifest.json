@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.ea7a9168.css",
+    "main.css": "./static/css/main.75a6916b.css",
     "main.js": "./static/js/main.6d84f875.js",
     "static/js/27.eaf67e85.chunk.js": "./static/js/27.eaf67e85.chunk.js",
     "static/media/GalanoGrotesqueBold.otf": "./static/media/GalanoGrotesqueBold.e8d6ed1f9eff334507fa.otf",
@@ -9,7 +9,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.ea7a9168.css",
+    "static/css/main.75a6916b.css",
     "static/js/main.6d84f875.js"
   ]
 }
