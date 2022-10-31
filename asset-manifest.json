@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.433f6dfb.css",
-    "main.js": "./static/js/main.9ad82036.js",
+    "main.css": "./static/css/main.ea7a9168.css",
+    "main.js": "./static/js/main.6d84f875.js",
     "static/js/27.eaf67e85.chunk.js": "./static/js/27.eaf67e85.chunk.js",
     "static/media/GalanoGrotesqueBold.otf": "./static/media/GalanoGrotesqueBold.e8d6ed1f9eff334507fa.otf",
     "static/media/GreasySpoonNF.ttf": "./static/media/GreasySpoonNF.d6298534234cb752d64c.ttf",
@@ -9,7 +9,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.433f6dfb.css",
-    "static/js/main.9ad82036.js"
+    "static/css/main.ea7a9168.css",
+    "static/js/main.6d84f875.js"
   ]
 }
